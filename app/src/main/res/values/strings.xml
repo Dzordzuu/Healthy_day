@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Healthy_day</string>
+    <string name="witaj">WITAJ </string>
+    <string name="w_healhty_day">HEALTHY DAY </string>
+    <string name="rej">Rejestracja</string>
+    <string name="login">Login</string>
+
+    <string-array name="feelings">
+        <item>Niski</item>
+        <item>Umiarkowany</item>
+        <item>Aktywny</item>
+        <item>Bardzo aktywny</item>
+    </string-array>
+    <string-array name="plec">
+        <item>Kobieta</item>
+        <item>Mężczyzna</item>
+
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
